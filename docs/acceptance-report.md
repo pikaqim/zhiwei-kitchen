@@ -21,6 +21,7 @@
 | T7 | 上传：未勾选版权拦截 toast → 勾选后分片上传（进度 58%→100%）→ 转码 + 机审 → 就绪卡 → 挂载到《戚风蛋糕》 | ✅ | ![拦截](screenshots/t7_warn.png) ![就绪](screenshots/t7_ready.png) ![挂载](screenshots/t7_mounted.png) |
 | T8 | 任务中心：11 条记录（解析/生图/分镜/生视频/上传），类型、状态、成本、耗时全部正确 | ✅ | ![任务](screenshots/t8_tasks.png) |
 | T9 | 移动端 375×700：底部导航、单列卡片、表格换行无溢出、chip 换行 | ✅ | ![移动端](screenshots/t9_mobile_cards.png) |
+| T12 | 线上验收：GitHub Pages 真实加载（渲染完整、manifest 可达、Service Worker active 可安装） | ✅ | ![线上](screenshots/t12_live.png) |
 
 ## 二、发现的问题与修复记录
 
