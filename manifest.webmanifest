@@ -1,0 +1,15 @@
+{
+  "name": "知味厨房 · 智能电子菜谱",
+  "short_name": "知味厨房",
+  "description": "结构化电子菜谱 + AI 生成菜谱图与烹饪演示视频（模拟服务演示）",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f1e8",
+  "theme_color": "#d94f2b",
+  "icons": [
+    { "src": "./icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "./icons/icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
